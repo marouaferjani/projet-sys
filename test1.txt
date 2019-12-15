@@ -1,0 +1,4 @@
+ls -l
+pwd
+mkdir dossier1
+rmdir dossier2
